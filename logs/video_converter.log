@@ -1,0 +1,180 @@
+2025-05-13 09:05:59,941 - INFO - [tasks.py:57] - 开始处理视频转换任务: L81.mp4 -> output.wav
+2025-05-13 09:05:59,941 - WARNING - [tasks.py:67] - 输出目录不存在，正在创建: 
+2025-05-13 09:05:59,941 - ERROR - [tasks.py:88] - 文件错误: [Errno 2] No such file or directory: ''
+2025-05-13 09:07:53,167 - INFO - [tasks.py:57] - 开始处理视频转换任务: L81.mp4 -> output.wav
+2025-05-13 09:07:53,167 - WARNING - [tasks.py:67] - 输出目录不存在，正在创建: 
+2025-05-13 09:07:53,167 - ERROR - [tasks.py:88] - 文件错误: [Errno 2] No such file or directory: ''
+2025-05-13 09:08:08,604 - INFO - [tasks.py:57] - 开始处理视频转换任务: L81.mp4 -> output.wav
+2025-05-13 09:08:08,604 - WARNING - [tasks.py:67] - 输出目录不存在，正在创建: 
+2025-05-13 09:08:08,605 - ERROR - [tasks.py:88] - 文件错误: [Errno 2] No such file or directory: ''
+2025-05-13 09:11:29,271 - INFO - [tasks.py:57] - 开始处理视频转换任务: L81.mp4 -> output.wav
+2025-05-13 09:11:29,271 - WARNING - [tasks.py:66] - 输出目录不存在，正在创建: 
+2025-05-13 09:11:29,271 - ERROR - [tasks.py:87] - 文件错误: [Errno 2] No such file or directory: ''
+2025-05-13 09:13:04,298 - INFO - [tasks.py:57] - 开始处理视频转换任务: L81.mp4 -> output.wav
+2025-05-13 09:13:04,298 - INFO - [tasks.py:77] - 开始转换...
+2025-05-13 09:13:05,585 - INFO - [tasks.py:83] - 转换成功！输出文件大小: 37.75MB
+2025-05-13 09:13:53,703 - INFO - [tasks.py:57] - 开始处理视频转换任务: L81.mp4 -> output.avi
+2025-05-13 09:13:53,703 - INFO - [tasks.py:77] - 开始转换...
+2025-05-13 09:13:55,064 - INFO - [tasks.py:83] - 转换成功！输出文件大小: 37.75MB
+2025-05-14 07:43:49,259 - INFO - [tasks.py:105] - 开始读取视频元数据: L81.mp4
+2025-05-14 07:43:49,335 - INFO - [tasks.py:120] - 元数据获取成功: {'时长': '10.634000', '分辨率': '720x1280', '编码格式': 'h264', '比特率': '2701907', '文件大小': '3.43 MB'}
+2025-05-14 08:21:40,862 - INFO - [tasks.py:276] - 开始处理 2 个视频文件
+2025-05-14 08:21:41,074 - INFO - [tasks.py:254] - 参考视频规格: 720x1280
+2025-05-14 08:21:41,429 - INFO - [tasks.py:285] - 已加载视频: L81.mp4, 时长: 10.63秒
+2025-05-14 08:21:41,572 - INFO - [tasks.py:285] - 已加载视频: L82.mp4, 时长: 8.45秒
+2025-05-14 08:21:47,095 - INFO - [tasks.py:297] - 视频拼接完成: L81_L82.mp4
+2025-05-14 08:23:16,729 - INFO - [tasks.py:276] - 开始处理 2 个视频文件
+2025-05-14 08:23:16,927 - INFO - [tasks.py:254] - 参考视频规格: 720x1280
+2025-05-14 08:23:17,254 - INFO - [tasks.py:285] - 已加载视频: L81.mp4, 时长: 10.63秒
+2025-05-14 08:23:17,395 - INFO - [tasks.py:285] - 已加载视频: L82.mp4, 时长: 8.45秒
+2025-05-14 08:23:22,927 - INFO - [tasks.py:297] - 视频拼接完成: L81_L82.mp4
+2025-05-14 08:24:46,431 - INFO - [tasks.py:276] - 开始处理 2 个视频文件
+2025-05-14 08:24:46,669 - INFO - [tasks.py:254] - 参考视频规格: 720x1280
+2025-05-14 08:24:47,053 - INFO - [tasks.py:285] - 已加载视频: L81.mp4, 时长: 10.63秒
+2025-05-14 08:24:47,211 - INFO - [tasks.py:285] - 已加载视频: L82.mp4, 时长: 8.45秒
+2025-05-14 08:24:52,813 - INFO - [tasks.py:297] - 视频拼接完成: L81_L82.mp4
+2025-05-14 08:25:43,355 - INFO - [tasks.py:275] - 开始处理 2 个视频文件
+2025-05-14 08:25:43,589 - INFO - [tasks.py:253] - 参考视频规格: 720x1280
+2025-05-14 08:25:43,958 - INFO - [tasks.py:284] - 已加载视频: L81.mp4, 时长: 10.63秒
+2025-05-14 08:25:44,126 - INFO - [tasks.py:284] - 已加载视频: L82.mp4, 时长: 8.45秒
+2025-05-14 08:25:49,450 - INFO - [tasks.py:296] - 视频拼接完成: L81_L82.mp4
+2025-05-14 08:51:38,881 - INFO - [tasks.py:272] - 开始处理 2 个视频文件
+2025-05-14 08:51:39,094 - INFO - [tasks.py:250] - 参考视频规格: 720x1280
+2025-05-14 08:51:39,484 - INFO - [tasks.py:281] - 已加载视频: L81.mp4, 时长: 10.63秒
+2025-05-14 08:51:39,638 - INFO - [tasks.py:281] - 已加载视频: L82.mp4, 时长: 8.45秒
+2025-05-14 08:51:44,970 - INFO - [tasks.py:293] - 视频拼接完成: L81_L82.mp4
+2025-05-14 08:52:41,342 - INFO - [tasks.py:272] - 开始处理 2 个视频文件
+2025-05-14 08:52:41,561 - INFO - [tasks.py:250] - 参考视频规格: 720x1280
+2025-05-14 08:52:41,940 - INFO - [tasks.py:281] - 已加载视频: L81.mp4, 时长: 10.63秒
+2025-05-14 08:52:42,101 - INFO - [tasks.py:281] - 已加载视频: L82.mp4, 时长: 8.45秒
+2025-05-14 08:52:47,288 - INFO - [tasks.py:293] - 视频拼接完成: L81_L82.mp4
+2025-05-15 05:47:37,862 - INFO - [tasks.py:127] - 开始处理视频转换任务: /tmp/pytest-of-andiji/pytest-0/test_atomic_transcode0/test.mp4 -> /tmp/pytest-of-andiji/pytest-0/test_atomic_transcode0/out.webm
+2025-05-15 05:47:37,992 - INFO - [tasks.py:178] - 开始处理视频: /tmp/pytest-of-andiji/pytest-0/test_atomic_resize_video0/test.mp4
+2025-05-15 05:47:37,992 - ERROR - [tasks.py:207] - 处理失败: module 'ffmpeg' has no attribute 'probe'
+2025-05-15 05:47:38,074 - INFO - [tasks.py:214] - 开始读取视频元数据: /tmp/pytest-of-andiji/pytest-0/test_atomic_get_media_info0/test.mp4
+2025-05-15 05:47:38,074 - ERROR - [tasks.py:233] - 获取元数据失败: module 'ffmpeg' has no attribute 'probe'
+2025-05-15 05:47:38,164 - INFO - [tasks.py:270] - 开始处理视频: /tmp/pytest-of-andiji/pytest-0/test_atomic_trim_video0/test.mp4
+2025-05-15 05:47:38,165 - INFO - [tasks.py:271] - 裁剪区间: 0 -> 1
+2025-05-15 05:47:38,205 - ERROR - [tasks.py:302] - 处理失败: 'VideoFileClip' object has no attribute 'subclip'
+2025-05-15 05:47:38,344 - INFO - [tasks.py:342] - 开始处理 2 个视频文件
+2025-05-15 05:47:38,400 - INFO - [tasks.py:320] - 参考视频规格: 320x240
+2025-05-15 05:47:38,488 - INFO - [tasks.py:351] - 已加载视频: /tmp/pytest-of-andiji/pytest-0/test_atomic_concatenate_videos0/test.mp4, 时长: 2.0秒
+2025-05-15 05:47:38,523 - INFO - [tasks.py:351] - 已加载视频: /tmp/pytest-of-andiji/pytest-0/test_atomic_concatenate_videos0/test2.mp4, 时长: 2.0秒
+2025-05-15 05:47:38,601 - INFO - [tasks.py:363] - 视频拼接完成: /tmp/pytest-of-andiji/pytest-0/test_atomic_concatenate_videos0/concat.mp4
+2025-05-15 05:47:38,663 - INFO - [tasks.py:403] - 加载视频: /tmp/pytest-of-andiji/pytest-0/test_atomic_add_audio0/test.mp4
+2025-05-15 05:47:38,701 - INFO - [tasks.py:406] - 加载音频: /tmp/pytest-of-andiji/pytest-0/test_atomic_add_audio0/test.wav
+2025-05-15 05:47:38,731 - ERROR - [tasks.py:447] - 处理失败: 'AudioFileClip' object has no attribute 'subclip'
+2025-05-15 05:53:00,744 - INFO - [tasks.py:127] - 开始处理视频转换任务: /tmp/pytest-of-andiji/pytest-1/test_atomic_transcode0/test.mp4 -> /tmp/pytest-of-andiji/pytest-1/test_atomic_transcode0/out.webm
+2025-05-15 05:53:00,744 - INFO - [tasks.py:147] - 开始转换...
+2025-05-15 05:53:01,033 - INFO - [tasks.py:153] - 转换成功！输出文件大小: 0.00MB
+2025-05-15 05:53:01,079 - INFO - [tasks.py:178] - 开始处理视频: /tmp/pytest-of-andiji/pytest-1/test_atomic_resize_video0/test.mp4
+2025-05-15 05:53:01,128 - INFO - [tasks.py:200] - 调整尺寸: 320x240 -> 160x120
+2025-05-15 05:53:01,209 - INFO - [tasks.py:203] - 视频处理完成！
+2025-05-15 05:53:01,251 - INFO - [tasks.py:214] - 开始读取视频元数据: /tmp/pytest-of-andiji/pytest-1/test_atomic_get_media_info0/test.mp4
+2025-05-15 05:53:01,300 - INFO - [tasks.py:229] - 元数据获取成功: {'时长': '2.000000', '分辨率': '320x240', '编码格式': 'h264', '比特率': '11856', '文件大小': '0.00 MB'}
+2025-05-15 05:53:01,345 - INFO - [tasks.py:270] - 开始处理视频: /tmp/pytest-of-andiji/pytest-1/test_atomic_trim_video0/test.mp4
+2025-05-15 05:53:01,346 - INFO - [tasks.py:271] - 裁剪区间: 0 -> 1
+2025-05-15 05:53:01,375 - ERROR - [tasks.py:302] - 处理失败: 'VideoFileClip' object has no attribute 'subclip'
+2025-05-15 05:53:01,491 - INFO - [tasks.py:342] - 开始处理 2 个视频文件
+2025-05-15 05:53:01,526 - INFO - [tasks.py:320] - 参考视频规格: 320x240
+2025-05-15 05:53:01,588 - INFO - [tasks.py:351] - 已加载视频: /tmp/pytest-of-andiji/pytest-1/test_atomic_concatenate_videos0/test.mp4, 时长: 2.0秒
+2025-05-15 05:53:01,614 - INFO - [tasks.py:351] - 已加载视频: /tmp/pytest-of-andiji/pytest-1/test_atomic_concatenate_videos0/test2.mp4, 时长: 2.0秒
+2025-05-15 05:53:01,675 - INFO - [tasks.py:363] - 视频拼接完成: /tmp/pytest-of-andiji/pytest-1/test_atomic_concatenate_videos0/concat.mp4
+2025-05-15 05:53:01,727 - INFO - [tasks.py:403] - 加载视频: /tmp/pytest-of-andiji/pytest-1/test_atomic_add_audio0/test.mp4
+2025-05-15 05:53:01,761 - INFO - [tasks.py:406] - 加载音频: /tmp/pytest-of-andiji/pytest-1/test_atomic_add_audio0/test.wav
+2025-05-15 05:53:01,786 - ERROR - [tasks.py:447] - 处理失败: 'AudioFileClip' object has no attribute 'subclip'
+2025-05-15 05:57:06,995 - INFO - [tasks.py:127] - 开始处理视频转换任务: /tmp/pytest-of-andiji/pytest-2/test_atomic_transcode0/test.mp4 -> /tmp/pytest-of-andiji/pytest-2/test_atomic_transcode0/out.webm
+2025-05-15 05:57:06,995 - INFO - [tasks.py:147] - 开始转换...
+2025-05-15 05:57:07,304 - INFO - [tasks.py:153] - 转换成功！输出文件大小: 0.00MB
+2025-05-15 05:57:07,362 - INFO - [tasks.py:178] - 开始处理视频: /tmp/pytest-of-andiji/pytest-2/test_atomic_resize_video0/test.mp4
+2025-05-15 05:57:07,421 - INFO - [tasks.py:200] - 调整尺寸: 320x240 -> 160x120
+2025-05-15 05:57:07,522 - INFO - [tasks.py:203] - 视频处理完成！
+2025-05-15 05:57:07,578 - INFO - [tasks.py:214] - 开始读取视频元数据: /tmp/pytest-of-andiji/pytest-2/test_atomic_get_media_info0/test.mp4
+2025-05-15 05:57:07,637 - INFO - [tasks.py:229] - 元数据获取成功: {'时长': '2.000000', '分辨率': '320x240', '编码格式': 'h264', '比特率': '11856', '文件大小': '0.00 MB'}
+2025-05-15 05:57:07,700 - INFO - [tasks.py:270] - 开始处理视频: /tmp/pytest-of-andiji/pytest-2/test_atomic_trim_video0/test.mp4
+2025-05-15 05:57:07,700 - INFO - [tasks.py:271] - 裁剪区间: 0 -> 1
+2025-05-15 05:57:07,743 - ERROR - [tasks.py:302] - 处理失败: 'VideoFileClip' object has no attribute 'subclip'
+2025-05-15 05:57:07,884 - INFO - [tasks.py:342] - 开始处理 2 个视频文件
+2025-05-15 05:57:07,939 - INFO - [tasks.py:320] - 参考视频规格: 320x240
+2025-05-15 05:57:08,030 - INFO - [tasks.py:351] - 已加载视频: /tmp/pytest-of-andiji/pytest-2/test_atomic_concatenate_videos0/test.mp4, 时长: 2.0秒
+2025-05-15 05:57:08,070 - INFO - [tasks.py:351] - 已加载视频: /tmp/pytest-of-andiji/pytest-2/test_atomic_concatenate_videos0/test2.mp4, 时长: 2.0秒
+2025-05-15 05:57:08,142 - INFO - [tasks.py:363] - 视频拼接完成: /tmp/pytest-of-andiji/pytest-2/test_atomic_concatenate_videos0/concat.mp4
+2025-05-15 05:57:08,203 - INFO - [tasks.py:403] - 加载视频: /tmp/pytest-of-andiji/pytest-2/test_atomic_add_audio0/test.mp4
+2025-05-15 05:57:08,241 - INFO - [tasks.py:406] - 加载音频: /tmp/pytest-of-andiji/pytest-2/test_atomic_add_audio0/test.wav
+2025-05-15 05:57:08,287 - ERROR - [tasks.py:447] - 处理失败: 'AudioFileClip' object has no attribute 'subclip'
+2025-05-15 06:03:03,990 - INFO - [tasks.py:127] - 开始处理视频转换任务: /tmp/pytest-of-andiji/pytest-3/test_atomic_transcode0/test.mp4 -> /tmp/pytest-of-andiji/pytest-3/test_atomic_transcode0/out.webm
+2025-05-15 06:03:03,990 - INFO - [tasks.py:147] - 开始转换...
+2025-05-15 06:03:04,326 - INFO - [tasks.py:153] - 转换成功！输出文件大小: 0.00MB
+2025-05-15 06:03:04,385 - INFO - [tasks.py:178] - 开始处理视频: /tmp/pytest-of-andiji/pytest-3/test_atomic_resize_video0/test.mp4
+2025-05-15 06:03:04,446 - INFO - [tasks.py:200] - 调整尺寸: 320x240 -> 160x120
+2025-05-15 06:03:04,564 - INFO - [tasks.py:203] - 视频处理完成！
+2025-05-15 06:03:04,625 - INFO - [tasks.py:214] - 开始读取视频元数据: /tmp/pytest-of-andiji/pytest-3/test_atomic_get_media_info0/test.mp4
+2025-05-15 06:03:04,687 - INFO - [tasks.py:229] - 元数据获取成功: {'时长': '2.000000', '分辨率': '320x240', '编码格式': 'h264', '比特率': '11856', '文件大小': '0.00 MB'}
+2025-05-15 06:03:04,751 - INFO - [tasks.py:270] - 开始处理视频: /tmp/pytest-of-andiji/pytest-3/test_atomic_trim_video0/test.mp4
+2025-05-15 06:03:04,752 - INFO - [tasks.py:271] - 裁剪区间: 0 -> 1
+2025-05-15 06:03:04,752 - ERROR - [tasks.py:302] - 处理失败: name 'VideoFileClip' is not defined
+2025-05-15 06:03:04,878 - INFO - [tasks.py:342] - 开始处理 2 个视频文件
+2025-05-15 06:03:04,878 - ERROR - [tasks.py:331] - 视频兼容性检查失败: name 'VideoFileClip' is not defined
+2025-05-15 06:03:04,879 - ERROR - [tasks.py:367] - 视频拼接失败: name 'VideoFileClip' is not defined
+2025-05-15 06:03:04,960 - INFO - [tasks.py:403] - 加载视频: /tmp/pytest-of-andiji/pytest-3/test_atomic_add_audio0/test.mp4
+2025-05-15 06:03:04,961 - ERROR - [tasks.py:447] - 处理失败: name 'VideoFileClip' is not defined
+2025-05-15 06:03:47,832 - INFO - [tasks.py:127] - 开始处理视频转换任务: /tmp/pytest-of-andiji/pytest-4/test_atomic_transcode0/test.mp4 -> /tmp/pytest-of-andiji/pytest-4/test_atomic_transcode0/out.webm
+2025-05-15 06:03:47,832 - INFO - [tasks.py:147] - 开始转换...
+2025-05-15 06:03:48,129 - INFO - [tasks.py:153] - 转换成功！输出文件大小: 0.00MB
+2025-05-15 06:03:48,184 - INFO - [tasks.py:178] - 开始处理视频: /tmp/pytest-of-andiji/pytest-4/test_atomic_resize_video0/test.mp4
+2025-05-15 06:03:48,245 - INFO - [tasks.py:200] - 调整尺寸: 320x240 -> 160x120
+2025-05-15 06:03:48,350 - INFO - [tasks.py:203] - 视频处理完成！
+2025-05-15 06:03:48,401 - INFO - [tasks.py:214] - 开始读取视频元数据: /tmp/pytest-of-andiji/pytest-4/test_atomic_get_media_info0/test.mp4
+2025-05-15 06:03:48,459 - INFO - [tasks.py:229] - 元数据获取成功: {'时长': '2.000000', '分辨率': '320x240', '编码格式': 'h264', '比特率': '11856', '文件大小': '0.00 MB'}
+2025-05-15 06:03:48,515 - INFO - [tasks.py:270] - 开始处理视频: /tmp/pytest-of-andiji/pytest-4/test_atomic_trim_video0/test.mp4
+2025-05-15 06:03:48,515 - INFO - [tasks.py:271] - 裁剪区间: 0 -> 1
+2025-05-15 06:03:48,615 - INFO - [tasks.py:298] - 视频裁剪完成：/tmp/pytest-of-andiji/pytest-4/test_atomic_trim_video0/trimmed.mp4
+2025-05-15 06:03:48,673 - INFO - [tasks.py:342] - 开始处理 2 个视频文件
+2025-05-15 06:03:48,726 - INFO - [tasks.py:320] - 参考视频规格: 320x240
+2025-05-15 06:03:48,816 - INFO - [tasks.py:351] - 已加载视频: /tmp/pytest-of-andiji/pytest-4/test_atomic_concatenate_videos0/test.mp4, 时长: 2.0秒
+2025-05-15 06:03:48,858 - INFO - [tasks.py:351] - 已加载视频: /tmp/pytest-of-andiji/pytest-4/test_atomic_concatenate_videos0/test2.mp4, 时长: 2.0秒
+2025-05-15 06:03:48,915 - INFO - [tasks.py:363] - 视频拼接完成: /tmp/pytest-of-andiji/pytest-4/test_atomic_concatenate_videos0/concat.mp4
+2025-05-15 06:03:48,976 - INFO - [tasks.py:403] - 加载视频: /tmp/pytest-of-andiji/pytest-4/test_atomic_add_audio0/test.mp4
+2025-05-15 06:03:49,013 - INFO - [tasks.py:406] - 加载音频: /tmp/pytest-of-andiji/pytest-4/test_atomic_add_audio0/test.wav
+2025-05-15 06:03:49,039 - INFO - [tasks.py:436] - 开始导出视频: /tmp/pytest-of-andiji/pytest-4/test_atomic_add_audio0/video_with_audio.mp4
+2025-05-15 06:03:49,047 - ERROR - [tasks.py:447] - 处理失败: Error in file /tmp/pytest-of-andiji/pytest-4/test_atomic_add_audio0/test.wav, Accessing time t=1.02-1.07 seconds, with clip duration=1 seconds, 
+2025-05-15 06:05:08,116 - INFO - [tasks.py:127] - 开始处理视频转换任务: /tmp/pytest-of-andiji/pytest-5/test_atomic_transcode0/test.mp4 -> /tmp/pytest-of-andiji/pytest-5/test_atomic_transcode0/out.webm
+2025-05-15 06:05:08,116 - INFO - [tasks.py:147] - 开始转换...
+2025-05-15 06:05:08,417 - INFO - [tasks.py:153] - 转换成功！输出文件大小: 0.00MB
+2025-05-15 06:05:08,467 - INFO - [tasks.py:178] - 开始处理视频: /tmp/pytest-of-andiji/pytest-5/test_atomic_resize_video0/test.mp4
+2025-05-15 06:05:08,526 - INFO - [tasks.py:200] - 调整尺寸: 320x240 -> 160x120
+2025-05-15 06:05:08,613 - INFO - [tasks.py:203] - 视频处理完成！
+2025-05-15 06:05:08,663 - INFO - [tasks.py:214] - 开始读取视频元数据: /tmp/pytest-of-andiji/pytest-5/test_atomic_get_media_info0/test.mp4
+2025-05-15 06:05:08,714 - INFO - [tasks.py:229] - 元数据获取成功: {'时长': '2.000000', '分辨率': '320x240', '编码格式': 'h264', '比特率': '11856', '文件大小': '0.00 MB'}
+2025-05-15 06:05:08,764 - INFO - [tasks.py:270] - 开始处理视频: /tmp/pytest-of-andiji/pytest-5/test_atomic_trim_video0/test.mp4
+2025-05-15 06:05:08,764 - INFO - [tasks.py:271] - 裁剪区间: 0 -> 1
+2025-05-15 06:05:08,847 - INFO - [tasks.py:298] - 视频裁剪完成：/tmp/pytest-of-andiji/pytest-5/test_atomic_trim_video0/trimmed.mp4
+2025-05-15 06:05:08,887 - INFO - [tasks.py:342] - 开始处理 2 个视频文件
+2025-05-15 06:05:08,927 - INFO - [tasks.py:320] - 参考视频规格: 320x240
+2025-05-15 06:05:08,996 - INFO - [tasks.py:351] - 已加载视频: /tmp/pytest-of-andiji/pytest-5/test_atomic_concatenate_videos0/test.mp4, 时长: 2.0秒
+2025-05-15 06:05:09,028 - INFO - [tasks.py:351] - 已加载视频: /tmp/pytest-of-andiji/pytest-5/test_atomic_concatenate_videos0/test2.mp4, 时长: 2.0秒
+2025-05-15 06:05:09,071 - INFO - [tasks.py:363] - 视频拼接完成: /tmp/pytest-of-andiji/pytest-5/test_atomic_concatenate_videos0/concat.mp4
+2025-05-15 06:05:09,113 - INFO - [tasks.py:403] - 加载视频: /tmp/pytest-of-andiji/pytest-5/test_atomic_add_audio0/test.mp4
+2025-05-15 06:05:09,138 - INFO - [tasks.py:406] - 加载音频: /tmp/pytest-of-andiji/pytest-5/test_atomic_add_audio0/test.wav
+2025-05-15 06:05:09,178 - INFO - [tasks.py:436] - 开始导出视频: /tmp/pytest-of-andiji/pytest-5/test_atomic_add_audio0/video_with_audio.mp4
+2025-05-15 06:05:09,336 - INFO - [tasks.py:443] - 处理完成！
+2025-05-16 06:58:58,251 - INFO - [tasks.py:127] - 开始处理视频转换任务: /tmp/pytest-of-andiji/pytest-6/test_atomic_transcode0/test.mp4 -> /tmp/pytest-of-andiji/pytest-6/test_atomic_transcode0/out.webm
+2025-05-16 06:58:58,252 - INFO - [tasks.py:147] - 开始转换...
+2025-05-16 06:58:58,568 - INFO - [tasks.py:153] - 转换成功！输出文件大小: 0.00MB
+2025-05-16 06:58:58,629 - INFO - [tasks.py:178] - 开始处理视频: /tmp/pytest-of-andiji/pytest-6/test_atomic_resize_video0/test.mp4
+2025-05-16 06:58:58,690 - INFO - [tasks.py:200] - 调整尺寸: 320x240 -> 160x120
+2025-05-16 06:58:58,793 - INFO - [tasks.py:203] - 视频处理完成！
+2025-05-16 06:58:58,851 - INFO - [tasks.py:214] - 开始读取视频元数据: /tmp/pytest-of-andiji/pytest-6/test_atomic_get_media_info0/test.mp4
+2025-05-16 06:58:58,911 - INFO - [tasks.py:229] - 元数据获取成功: {'时长': '2.000000', '分辨率': '320x240', '编码格式': 'h264', '比特率': '11856', '文件大小': '0.00 MB'}
+2025-05-16 06:58:58,969 - INFO - [tasks.py:270] - 开始处理视频: /tmp/pytest-of-andiji/pytest-6/test_atomic_trim_video0/test.mp4
+2025-05-16 06:58:58,969 - INFO - [tasks.py:271] - 裁剪区间: 0 -> 1
+2025-05-16 06:58:59,073 - INFO - [tasks.py:298] - 视频裁剪完成：/tmp/pytest-of-andiji/pytest-6/test_atomic_trim_video0/trimmed.mp4
+2025-05-16 06:58:59,130 - INFO - [tasks.py:342] - 开始处理 2 个视频文件
+2025-05-16 06:58:59,187 - INFO - [tasks.py:320] - 参考视频规格: 320x240
+2025-05-16 06:58:59,279 - INFO - [tasks.py:351] - 已加载视频: /tmp/pytest-of-andiji/pytest-6/test_atomic_concatenate_videos0/test.mp4, 时长: 2.0秒
+2025-05-16 06:58:59,318 - INFO - [tasks.py:351] - 已加载视频: /tmp/pytest-of-andiji/pytest-6/test_atomic_concatenate_videos0/test2.mp4, 时长: 2.0秒
+2025-05-16 06:58:59,377 - INFO - [tasks.py:363] - 视频拼接完成: /tmp/pytest-of-andiji/pytest-6/test_atomic_concatenate_videos0/concat.mp4
+2025-05-16 06:58:59,446 - INFO - [tasks.py:403] - 加载视频: /tmp/pytest-of-andiji/pytest-6/test_atomic_add_audio0/test.mp4
+2025-05-16 06:58:59,484 - INFO - [tasks.py:406] - 加载音频: /tmp/pytest-of-andiji/pytest-6/test_atomic_add_audio0/test.wav
+2025-05-16 06:58:59,530 - INFO - [tasks.py:436] - 开始导出视频: /tmp/pytest-of-andiji/pytest-6/test_atomic_add_audio0/video_with_audio.mp4
+2025-05-16 06:58:59,696 - INFO - [tasks.py:443] - 处理完成！
